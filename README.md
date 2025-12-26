@@ -25,21 +25,29 @@
 
 ### Programming Languages and Technologies 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cpp logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sql" height="50" alt="sql logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascrip logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=neovim" height="50" alt="neovim logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="50" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
   <img width="12" />
 </div>
 
