@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=47F757&center=true&vCenter=true&random=false&width=435&lines=Hello+%F0%9F%91%8B;I'am+Ahmed+Aly+AKA+3brady;A+CS+Student+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;And+a+Competitive+programmer;I+Use+arch+BTW+" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=47F757&center=true&vCenter=true&random=false&width=435&lines=Hello+%F0%9F%91%8B;I'am+Ahmed+Aly+AKA+3brady;A+CS+Student+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;And+a+Competitive+programmer;I+Use+arch+BTW+:)+" alt="Typing SVG" /></a>
 </p>
 
 ### About Me
